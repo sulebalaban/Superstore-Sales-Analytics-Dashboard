@@ -15,10 +15,9 @@ Trends: Yearly and quarterly sales trends to understand seasonality and growth.
 Purpose:
 The dashboard helps stakeholders spot growth opportunities, optimize strategies for products and regions, and improve overall business performance.
 
-Tools Used:
 
-Power BI for interactive visualizations.
-Excel for data import.
+
+
 
 ![Language](https://img.shields.io/badge/language-PowerBI-yellow)
 
